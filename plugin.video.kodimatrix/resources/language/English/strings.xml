@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Plugin name -->
+  <string id="30000">KodiMatrix</string>
+  <string id="32001">Settings</string>
+  <string id="32002">Show Title in list</string>
+  <string id="32003">Show Title in link</string>
+  <string id="32004">Clear Cache</string>
+  <string id="32005">Show file format in list</string>
+  <string id="32006">Show icon in list</string>
+  <string id="32007">Show thumbnail in list</string>
+  <string id="33005">[i]__Search__[/i]</string>
+  <string id="33001">&lt;&lt; Previous</string>
+  <string id="33002">Next &gt;&gt;</string>
+  <string id="33003">Search query</string>
+  <string id="33004">Download posible only in MatrixAgent</string>
+</strings>

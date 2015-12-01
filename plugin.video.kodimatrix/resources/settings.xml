@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+		<setting id="IconInTree"  type="bool" label="32006" default="false"/>
+		<setting id="ThumInTree"  type="bool" label="32007" default="false"/>
+		<setting id="TitleInTree" type="bool" label="32002" default="false"/>
+		<setting id="TitleInLink" type="bool" label="32003" default="false"/>
+		<setting id="TypeInTree"  type="bool" label="32005" default="false"/>
+        <setting type="sep"/>
+		<setting label="32004" type="action" action="RunPlugin(plugin://plugin.video.kodimatrix/clearcache)"/>
+    </category>
+</settings>

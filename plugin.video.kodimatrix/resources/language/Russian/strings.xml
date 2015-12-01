@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Plugin name -->
+  <string id="30000">KodiMatrix</string>
+  <string id="32001">Settings</string>
+  <string id="32002">Показывать название в списке</string>
+  <string id="32003">Показывать название в ссылке</string>
+  <string id="32004">Очистить кэш</string>
+  <string id="32005">Показывать формат в списке</string>
+  <string id="32006">Показывать иконки в списке</string>
+  <string id="32007">Показывать постер в списке</string>
+  <string id="33005">[i]__Поиск__[/i]</string>
+  <string id="33001">&lt;&lt; Назад</string>
+  <string id="33002">Дальше &gt;&gt;</string>
+  <string id="33003">Что искать</string>
+  <string id="33004">Доступно только через Matrix Agent :(</string>
+</strings>
